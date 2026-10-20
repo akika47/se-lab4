@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 # Primary-ban csak 1 torpedó, secondary üres
+TORPEDO,SINGLE  # 1. lövés: primary lő (wasPrimaryFiredLast = true, de kiürül)
+TORPEDO,SINGLE  # 2. lövés: secondary üres -> primary-t nézi, de az is üres -> FAIL

@@ -1,0 +1,3 @@
+SUCCESS  # GT4500 inicializálás
+SUCCESS  # 1. lövés sikeres
+FAIL     # 2. lövés sikertelen, mert mindkettő kiürült
