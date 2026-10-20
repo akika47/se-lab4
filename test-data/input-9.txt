@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 # Primary tárban 2 torpedó, secondary üres
+TORPEDO,SINGLE  # 1. lövés: primary-ból lő (wasPrimaryFiredLast = true lesz)
+TORPEDO,SINGLE  # 2. lövés: secondary üres -> újra a primary-ból kell lőnie
