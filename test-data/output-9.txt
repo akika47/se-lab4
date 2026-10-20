@@ -1,0 +1,3 @@
+SUCCESS  # GT4500 inicializálás
+SUCCESS  # 1. lövés sikeres (primary)
+SUCCESS  # 2. lövés sikeres (újra primary)
